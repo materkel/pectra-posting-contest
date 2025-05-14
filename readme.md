@@ -2,6 +2,28 @@
 
 All submissions were made with Midjourney V7 and Canva Pro.
 
+## Believe in SomΞTHing
+
+[![Believe in SomΞTHing poster](poster-believe-in-something.png)](poster-believe-in-something.png)
+
+Typefaces:
+- League Gothic
+- Proxima Nova
+
+ΞTHEREUM  
+BELIEVE IN SOMΞTHING  
+
+## Ξthereum Pectra
+
+[![Ξthereum Pectra poster](poster-pectra.png)](poster-pectra.png)
+
+Typefaces:
+- League Gothic
+- Proxima Nova
+
+ΞTHEREUM PECTRA  
+MAY 25  
+
 ## Ether is internet money
 
 [![Ether is internet money poster](poster-ether.png)](poster-ether.png)
